@@ -1,10 +1,10 @@
 ## 19.7.2_Testing_REST_api_PetFriends
 ______
-#### Тестовый проект к 19 модулю курса ***SkillFactory***  
+### Тестовый проект к 19 модулю курса ***SkillFactory***  
   
-#### Тестирование *REST api* сайта *Pet Friends*  
+### Тестирование *REST api* сайта *Pet Friends*  
   
-В */tests* директории располагается файл *test_pet_friends.py* с тестами.
+#### В */tests* директории располагается файл *test_pet_friends.py* с тестами.
 
 В директории */tests/images* находятся фотографии для тестов.  
   
